@@ -2,6 +2,9 @@
 
 This repo contains URDF files for the humanoid robot TOCABI. Additionally, we provide a USD file for use in NVIDIA Omniverse.
 
+![image](https://user-images.githubusercontent.com/11399119/196281096-3ab2740f-f79f-4201-a8dc-6e05649bec24.png)
+
+
 ## Files
 
 There are two folders: "combined" is the robot with one `.stl` file per link, as typically provided for robots.  To provide a closer model to creating a digital twin, the "subbodies" folder uses the "visual" component of URDF with each part as its own `.stl`, and a single link `.stl` as a collision body. 
