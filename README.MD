@@ -9,7 +9,7 @@ This repo contains URDF files for the humanoid robot TOCABI. Additionally, we pr
 
 There are two folders: "combined" is the robot with one `.stl` file per link, as typically provided for robots.  To provide a closer model to creating a digital twin, the "subbodies" folder uses the "visual" component of URDF with each part as its own `.stl`, and a single link `.stl` as a collision body. 
 
-The USD file has materials applied, the robot joints configured, and ready for simulation.
+The USD file has materials applied, the robot joints configured, and ready for simulation. Since the USD file is large,  we provide access through a google drive link [USD Link](https://drive.google.com/file/d/140kFxSP2MdZzfkZI8gcKiwrGgeiVN2wT/view?usp=sharing). 
 
 ## Downloading
 
